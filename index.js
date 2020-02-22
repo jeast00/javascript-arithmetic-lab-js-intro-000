@@ -19,7 +19,7 @@ function multiply(a, b) {
 }
 
 function increment(n) {
-  return n++;
+  return n+=n;
 }
 
 function decrement(n) {
